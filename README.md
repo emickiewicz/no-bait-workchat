@@ -1,11 +1,11 @@
 No Bait Workchat
 ================
 
-Removes the distracting notification icon from the *Workchat by Facebook* layout.
-
 If your company uses the *Workplace* platform (basically a private *Facebook* instance
 designed for enterprises), you may probably also use the *Workchat* application (*Facebook
 Messenger* equivalent) to chat with your teammates.
+
+This script removes the distracting notification icon from the *Workchat by Facebook* layout.
 
 ![Once the script is applied the Notification area is hidden](docs/no-bait-workchat-screenshot.png)
 
