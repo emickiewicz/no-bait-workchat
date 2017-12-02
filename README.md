@@ -7,7 +7,7 @@ If your company uses the *Workplace* platform (basically a private *Facebook* in
 designed for enterprises), you may probably also use the *Workchat* application (*Facebook
 Messenger* equivalent) to chat with your teammates.
 
-![Once the script is applied the Notification area is hidden](no-bait-workchat-screenshot.png)
+![Once the script is applied the Notification area is hidden](docs/no-bait-workchat-screenshot.png)
 
 How it works
 ------------
