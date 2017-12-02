@@ -1,7 +1,7 @@
 No Bait Workchat
 ================
 
-Remove the distracting notification icon from the *Workchat by Facebook* layout.
+Removes the distracting notification icon from the *Workchat by Facebook* layout.
 
 If your company uses the *Workplace* platform (basically a private *Facebook* instance
 designed for enterprises), you may probably also use the *Workchat* application (*Facebook
@@ -45,5 +45,5 @@ Then create a new user-script:
 [`no_bait_workchat.js` script file](no_bait_workchat.js) into the Tampermonkey editor window.
 - Click save (or hit `Ctrl+s`) and close the Tampermonkey window.
 
-While browsing on the *Workplace* chat, the Tampermonkey icon will display a `(1)` red box, stating
+While browsing on the *Workplace* chat, the Tampermonkey icon will display a `[1]` red box, stating
 that one user script is being executed on the current page.
